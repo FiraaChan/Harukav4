@@ -63,12 +63,12 @@ exports.leave = () =>{
 exports.menu = (prefix, salam, pushname) =>{
 	return`Hi ${pushname}, selamat ${salam}
 
-╭─⬣ *List Menu*
+╭─⬣ *List Menu🚀*
 │ ✿ ${prefix}menu
 │ ✿ ${prefix}help
 │ ✿ ${prefix}haruka
 │
-├ *Download*
+├ *Download🎧*
 │ ✿ ${prefix}play [query]
 │ ✿ ${prefix}song [judul lagu]
 │ ✿ ${prefix}pinterest [query]
@@ -86,9 +86,9 @@ exports.menu = (prefix, salam, pushname) =>{
 │ ✿ ${prefix}nhentaipdf [code]
 │ ✿ ${prefix}nhentaisearch [query]
 │
-├ *Convert*
+├ *Convert🌱*
 │ ✿ ${prefix}stiker [video/image]
-│ ✿ ${prefix}semoji 😎
+│ ✿ ${prefix}semoji 🗿
 │ ✿ ${prefix}smeme [text]
 │ ✿ ${prefix}memegen [text|text2]
 │ ✿ ${prefix}fast [video/vn]
@@ -99,13 +99,13 @@ exports.menu = (prefix, salam, pushname) =>{
 │ ✿ ${prefix}bass [video/vn]
 │ ✿ ${prefix}nightcore [video/vn]
 │
-├ *Education*
+├ *Education🧾*
 │ ✿ ${prefix}nuliskiri [text]
 │ ✿ ${prefix}nuliskanan [text]
 │ ✿ ${prefix}foliokiri [text]
 │ ✿ ${prefix}foliokanan [text]
 │
-├ *Islamic*
+├ *Islamic🕋*
 │ ✿ ${prefix}listsurah
 │ ✿ ${prefix}alquran
 │ ✿ ${prefix}asmaulhusna
@@ -113,7 +113,7 @@ exports.menu = (prefix, salam, pushname) =>{
 │ ✿ ${prefix}alquranaudio
 │ ✿ ${prefix}jadwalsholat
 │
-├ *Maker Ephoto360*
+├ *Maker Ephoto360📸*
 │ ✿ ${prefix}wetglass
 │ ✿ ${prefix}multicolor3d
 │ ✿ ${prefix}watercolor
@@ -145,7 +145,7 @@ exports.menu = (prefix, salam, pushname) =>{
 │ ✿ ${prefix}silverplaybutton
 │ ✿ ${prefix}freefire
 │
-├ *Maker TextPro*
+├ *Maker TextPro🖼️*
 │ ✿ ${prefix}blackpink
 │ ✿ ${prefix}neon
 │ ✿ ${prefix}greenneon
@@ -179,21 +179,21 @@ exports.menu = (prefix, salam, pushname) =>{
 │ ✿ ${prefix}horrorblood
 │ ✿ ${prefix}thunder
 │
-├ *Game*
+├ *Game🎮*
 │ ✿ ${prefix}tebakgambar 
 │
-├ *Info*
+├ *Info💌*
 │ ✿ ${prefix}owner
 │ ✿ ${prefix}daftar
 │
-├ *Owner*
+├ *Owner👩‍🦰*
 │ ✿ ${prefix}broadcast [text]
 │ ✿ ${prefix}leave
 │ ✿ >
 │ ✿ $
 │ ✿  => 
 │
-├ *Group*
+├ *Group🏢*
 │ ✿ ${prefix}antilink 1 / 0
 │ ✿ ${prefix}hidetag [text]
 │ ✿ ${prefix}linkgrup
