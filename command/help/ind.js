@@ -11,7 +11,7 @@ exports.noregis = (pushname) =>{
 	return` 🙅‍♀️ Halo ${pushname} lu belum daftar. Ketik .daftar dulu`
 	}
 exports.regis = () =>{
-	return` Lu udah daftar 🚀`
+	return` Lu udah daftar Tod🚀`
 	}
 exports.daftar = (sender, pushname, time, serialUser, totalUser) =>{
 	return` *PENDAFTARAN BERHASIL*
@@ -48,17 +48,17 @@ exports.ok = () =>{
 	return` ✅ Oke done ~`
 	}
 exports.welcome = () =>{
-	return`Jangan Lupa Intro Ya~
+	return`Gak Intro Gak Uwu~
 ⌯ָ   ֙Nama :
 ⌯ָ   ֙Umur :
 ⌯ָ   ֙Kelamin :
 ⌯ָ   ֙Askot :
-╰─ ᝬ _Patuhi Rules Group Ya_  >_<`
+╰─ ᝬ _Patuhi Rules Group Ya_  🗿`
       }
 exports.leave = () =>{
 	return`
 │
-╰─ ᝬ _Balik Lagi Wajib Donasi Ya_ >_<`
+╰─ ᝬ _Balik Lagi Wajib Donasi Ya_ 🐣`
 }
 exports.menu = (prefix, salam, pushname) =>{
 	return`Hi ${pushname}, selamat ${salam}
